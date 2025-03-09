@@ -6,7 +6,7 @@
 /*   By: ufo <ufo@student.42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/06 10:05:22 by ufo               #+#    #+#             */
-/*   Updated: 2025/03/06 17:47:24 by ufo              ###   ########.fr       */
+/*   Updated: 2025/03/09 11:06:19 by ufo              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,7 @@
 
 # include <iostream>
 # include <string>
+# include <cmath>
 
 class Fixed {
     private:
